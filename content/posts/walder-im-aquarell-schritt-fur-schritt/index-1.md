@@ -8,17 +8,17 @@ image = "1304a303-a99e-4259-9e97-81a0e314814b_1_201_a.jpeg"
 description = "Liebe Leser und liebe Leserinnen \n\nHeute habe ich mich der Aquarellmalerei gewidmet und werde euch mit sechs verschiedenen Bildern meine einzelnen Prozesse aufzeigen. \n\nDie Aquarellmalerei gilt generell als sehr schwierig, dabei musste ich einfach ein paar einzelne Grundlagen lernen, die ich euch Schritt für Schritt bei jedem Bild zeigen und erläutern werde. Ich habe mich für das Malen auf dem dicken und unebenen Aquarellpapier entschieden. \n\nSeid gespannt und lasst euch inspirieren! Ich freue mich zu erfahren, wie es euch gelungen ist. \n\nEure Rachel"
 footnotes = ""
 +++
-![Schritt: 1](c1376207-ca5e-4aa2-b559-224e6e75bd71.jpeg "Schritt: 1")
+![](c1376207-ca5e-4aa2-b559-224e6e75bd71.jpeg)
 
-![Schritt: 2](03fb0725-dbe1-48f0-811f-975458b6e6d0.jpeg "Schritt: 2")
+![](03fb0725-dbe1-48f0-811f-975458b6e6d0.jpeg)
 
-![Schritt: 3](d652118b-b303-47c4-810f-a7bdf8aa0a27.jpeg "Schritt 3:")
+![](d652118b-b303-47c4-810f-a7bdf8aa0a27.jpeg)
 
-![Schritt: 4](665dd49b-4772-4039-9b8b-2c20509dd416.jpeg "Schritt: 4")
+![](665dd49b-4772-4039-9b8b-2c20509dd416.jpeg)
 
-![Schritt: 5](3147226a-bd6d-4466-b91f-a59657448607.jpeg "Schritt: 5")
+![](3147226a-bd6d-4466-b91f-a59657448607.jpeg)
 
-![Schritt: 6](1304a303-a99e-4259-9e97-81a0e314814b_1_201_a.jpeg "Schritt: 6")
+![](1304a303-a99e-4259-9e97-81a0e314814b_1_201_a.jpeg)
 
 Liebe Leser und liebe Leserinnen 
 
