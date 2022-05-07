@@ -2,9 +2,9 @@
 title = "Wälder im Aquarell: Schritt für Schritt erklärt"
 date = "2022-05-07"
 draft = false
-pinned = false
+pinned = true
 tags = ["Aquarell", "malen", "Wald", "Leitfaden", "Kunst", "Wasserfarben", ""]
-image = "1304a303-a99e-4259-9e97-81a0e314814b.jpeg"
+image = "1304a303-a99e-4259-9e97-81a0e314814b_1_201_a.jpeg"
 description = "Liebe Leser und liebe Leserinnen \n\nHeute habe ich mich der Aquarellmalerei gewidmet und werde euch mit sechs verschiedenen Bildern meine einzelnen Prozesse aufzeigen. \n\nDie Aquarellmalerei gilt generell als sehr schwierig, dabei musste ich einfach ein paar einzelne Grundlagen lernen, die ich euch Schritt für Schritt bei jedem Bild zeigen und erläutern werde. Ich habe mich für das Malen auf dem dicken und unebenen Aquarellpapier entschieden. \n\nSeid gespannt und lasst euch inspirieren! Ich freue mich zu erfahren, wie es euch gelungen ist. \n\nEure Rachel"
 footnotes = ""
 +++
@@ -18,7 +18,7 @@ footnotes = ""
 
 ![Schritt: 5](3147226a-bd6d-4466-b91f-a59657448607.jpeg "Schritt: 5")
 
-![Schritt: 6](1304a303-a99e-4259-9e97-81a0e314814b.jpeg "Schritt: 6")
+![Schritt: 6](1304a303-a99e-4259-9e97-81a0e314814b_1_201_a.jpeg "Schritt: 6")
 
 Liebe Leser und liebe Leserinnen 
 
