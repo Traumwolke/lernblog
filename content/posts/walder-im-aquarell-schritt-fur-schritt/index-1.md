@@ -1,5 +1,5 @@
 +++
-title = "Wälder im Aquarell: Schritt für Schritt"
+title = "Wälder im Aquarell: Schritt für Schritt erklärt"
 date = "2022-05-07"
 draft = false
 pinned = false
