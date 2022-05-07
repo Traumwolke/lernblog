@@ -51,3 +51,9 @@ Wir sind nun fast am Ende angelangt. Von der feinen Mischung der Brauntöne habe
 6. und letzter Schritt: 
 
 Als letztes habe ich den kleinen Sticker in der Sonne von meinem Bild langsam abgezogen. Ihr könnt nun sehen, wie das Innere der Sonne etwas heller ist, als ihr Äusseres und sie so deutlich realistischer aussieht. Achtung: Nicht vergessen den Abdruck vom Rand des Stickers mit Wasser ein bisschen mit dem Gelb drumherum zu vermischen, so dass es noch realistischer aussieht. Wir sind am Ziel angekommen, das Bild ist fertig. Ich hoffe ihr hattet Freude und euer Bild sieht so ähnlich aus wie meins! :)
+
+
+
+😀 Viel Spass beim Nachmalen!\
+\
+Eure Rachel
