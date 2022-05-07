@@ -18,7 +18,7 @@ footnotes = ""
 
 ![](3147226a-bd6d-4466-b91f-a59657448607.jpeg)
 
-![](1304a303-a99e-4259-9e97-81a0e314814b_1_201_a.jpeg)
+![Schritt 1](1304a303-a99e-4259-9e97-81a0e314814b_1_201_a.jpeg "Ich habe mit dem Aufkleben eines kleinen Stickers begonnen, welcher sich mitten in der Sonne befindet. Dies um später zu vermeiden, dass die Sonne nur einen Gelbton hat. Als nächstes habe ich den oberen Teil des Bildes mit Wasser angefeuchtet. Aus dem Blau, dem Gelb und dem Grün habe ich mehrere schöne Grüntöne gemischt. Durch mehr oder weniger Farbe konnte ich die Grüntöne variieren. Jetzt beginnt das Warten, bis die Farbe trocken ist. So konnte ich jedes Mal mehrere Grüntöne übereinander schichten. Um den Sticker herum, habe ich nur Geld verwendet und darauf geachtet, dass die Sonne nicht grün wird.")
 
 Liebe Leser und liebe Leserinnen 
 
